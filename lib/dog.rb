@@ -11,3 +11,4 @@ class Dog
 end
 
 dog_one = Dog.new ("Fido")
+dog_one
