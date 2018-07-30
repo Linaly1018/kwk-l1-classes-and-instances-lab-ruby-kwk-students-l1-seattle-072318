@@ -1,8 +1,8 @@
 # dog.rb
 
 class Dog 
-  
 end
 
-dog_one = Dog.new ("Fido")
-dog_one.dog
+fido = Dog.new 
+snoopy = Dog.new
+lassie = Dog.new
